@@ -22,6 +22,10 @@ Built as part of a self-directed transition into **motorsport data analysis**.
 - Reconstructs the **full tyre strategy** of the top N finishers
 - Colour-coded by compound (official F1 colours: red/yellow/white)
 - Marks pit stop laps with vertical markers and labels stint lengths
+### 4. Qualifying Lap Comparison 
+— speed, throttle, brake, gear telemetry overlay
+### 5. Tyre Strategy Optimiser 
+— ML model simulating optimal pit stop windows
 
 ---
 
