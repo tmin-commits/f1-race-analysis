@@ -29,7 +29,7 @@ Built as part of a self-directed transition into **motorsport data analysis**.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/f1-race-analysis.git
+git clone https://github.com/tmin_commits/f1-race-analysis.git
 cd f1-race-analysis
 
 # Install dependencies
